@@ -1,2 +1,0 @@
-# FlashChat
-Chat application
