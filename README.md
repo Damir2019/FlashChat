@@ -8,4 +8,4 @@ link to the Udemy course : https://www.udemy.com/course/ios-13-app-development-b
 
 About the app:
 
-<img src="ScreenShots/MainScreen" width=200> <img src="ScreenShots/LoginScreen" width=200> <img src="ScreenShots/RegisterScreen" width=200> <img src="ScreenShots/ChatRoomScreen" width=200>
+<img src="ScreenShots/MainScreen.png" width=200> <img src="ScreenShots/LoginScreen.png" width=200> <img src="ScreenShots/RegisterScreen.png" width=200> <img src="ScreenShots/ChatRoomScreen.png" width=200>
